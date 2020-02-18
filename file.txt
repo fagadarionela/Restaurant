@@ -1,0 +1,8 @@
+Data: 09/05/2019
+Masa: 1
+COMANDA:
+NrComenzii: 1
+Ketchup 
+Pret:                 2
+
+Total:2
